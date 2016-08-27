@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="loading">Please Wait...</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="create_new_board">Create New Board</string>
+    <string name="add_new_task_title">Add New Task</string>
+    <string name="add_new_panel_title">Add new panel</string>
+    <string name="add_new_group_title">Add new Group</string>
+    <string name="done">Done</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="network_message">Please check your network.!</string>
+    <string name="success_response">success</string>
+    <string name="sign_up_validation">Please provide all information.!</string>
+    <string name="invalid_user_name">Invalid USER NAME or PASSWORD.!</string>
+    <string name="email_date_picker_title">Select Date To Send Email Reminder</string>
+    <string name="alarm_date_picker_title">Select Date To Send Alarm Reminder</string>
+    <string name="task_delete_confirmation">Are you sure to delete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="task_delete_message">Task has deleted successfully!</string>
+    <string name="group_name">Group Name</string>
+    <string name="group_code">Group Code</string>
+    <string name="add_group">Add Group</string>
+    <string name="join_group">Join Group</string>
+    <string name="share_group">Share Group</string>
+    <string name="email_id">Email-ID</string>
+    <string name="name">Name</string>
+    <string name="upload_profile_image">Change Profile Image</string>
+    <string name="alarm_reminder_title">Select Date For Alarm</string>
+    <string name="email_reminder_title">Select Date For Email</string>
+</resources>

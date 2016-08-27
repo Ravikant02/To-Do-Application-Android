@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#072F4B</color>
+    <color name="colorPrimaryDark">#032135</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="common_title_color">#b84237</color>
+    <color name="common_text_color">#a8a8a8</color>
+    <color name="common_dark_text_color">#545454</color>
+    <color name="navigation_drawer_item_selected_color">#d9d9d9</color>
+    <color name="green_color">#3d9b92</color>
+    <color name="action_bar_bg_color">#d14b1b</color>
+    <color name="game_flow_bg_color">#dbdbdb</color>
+
+    <color name="stream_subtitle">#969696</color>
+    <color name="stream_subtitle_pressed">#555</color>
+
+    <color name="bump_inactive">#c1c1c1</color>
+    <color name="stream_stripe">#6000</color>
+    <color name="no_photo_stream_stripe">#ebebeb</color>
+    <color name="no_photo_stream_text">#7f7f7f</color>
+
+    <color name="circle_indicator_alpha">#55ffffff</color>
+    <color name="circle_indicator">#d5d5d5</color>
+
+    <color name="stream_header_bg">#f6f6f6</color>
+
+    <!-- Identity colors -->
+    <color name="active_gameplay">#d74e0a</color>
+    <color name="active_gameplay_dark">#af3f08</color>
+    <color name="supportive_gameplay">#17acbe</color>
+    <color name="supportive_gameplay_dark">#128c9a</color>
+    <color name="passive_gameplay">#9d9fa2</color>
+    <color name="passive_gameplay_dark">#7f8184</color>
+    <color name="immediate_action">#9a45b9</color>
+    <color name="immediate_action_dark">#7d3896</color>
+
+    <color name="facebook">#46629e</color>
+    <color name="twitter">#55acee</color>
+    <color name="appColor">#072F4B</color>
+    <color name="menu_names">#c6c6c6</color>
+    <color name="old_menu_name">#7a7a7a</color>
+    <color name="text_view_color">#000000</color>
+</resources>
